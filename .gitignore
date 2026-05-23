@@ -1,0 +1,13 @@
+# Unreal generated folders
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+
+# Optional: ignore large asset folders
+/Content/Megascans/
+/Content/StarterContent/
+/Content/VehicleAssets/
+/Content/MarketplaceAssets/
+/Content/Movies/
