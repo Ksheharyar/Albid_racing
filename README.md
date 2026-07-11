@@ -14,7 +14,7 @@ Albid Racing is designed to deliver an enjoyable arcade-style racing experience 
  
 - 🏎️ Realistic vehicle movement and controls
 - 🛣️ Multiple racing tracks and environments
-- 🎯 Checkpoint and lap-based racing system 
+- 🎯 Checkpoint and lap-based racing system  
 - ⚡ Smooth acceleration, braking, and steering
 - 🎥 Dynamic camera system
 - 🔊 Sound effects and immersive racing atmosphere
